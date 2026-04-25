@@ -1,7 +1,7 @@
 <div>
     <h1>
         <a href="https://www.naratmalssami.kr">
-            <img src="/assets/logo.svg" />
+            <img src="https://choyunsig-crossword.github.io/.github/assets/logo.svg" />
         </a>
     </h1>
     <blockquote>
